@@ -1,0 +1,19 @@
+body {background-position: top center;background-size: cover;background-repeat: no-repeat;background-attachment: fixed; zoom: 220%}
+#glstr{background-image: url("t.jpg");}
+#yazik{background-image: url("ya.jpg");}
+#religion{background-image: url("b.jpg");}
+#obrlife{background-image: url("ob.jpeg");}
+#histori{background-image: url("i.jpg");}
+#kuhnya{background-image: url("ku.jpg");}
+#test{background-image: url("te.jpg");}
+#fpp{background-image: url("ob.jpeg");}
+.osnel{width: 90%;margin: 5% 5% 5% 5%;opacity: 80%;border-radius: 10px;padding: 1em;}
+#vnel{background-color: rgb(0, 97, 0);}
+#osel{background-color: rgb(255, 255, 255);}
+#niel{background-color: rgb(170, 0, 0);}
+h1{text-align: center}
+#knopki{text-align: center; margin: 5px 10% 5px 10%; border-radius: 10px; background-color: rgb(30, 148, 0); height: 40px; vertical-align: middle;}
+.knopki{display: inline-block;}
+#pelmen{text-decoration: none;font-size: 32px;font-family: Verdana, Geneva, Tahoma, sans-serif;color: black;}
+#nt{text-decoration: none;color: white;}
+#ot{font-size: 19px; text-indent: 25px;}
